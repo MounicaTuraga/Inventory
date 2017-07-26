@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "100970830578",
+    "firebase_url": "https://inventory-a8966.firebaseio.com",
+    "project_id": "inventory-a8966",
+    "storage_bucket": "inventory-a8966.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100970830578:android:bfbc49c43de41b45",
+        "android_client_info": {
+          "package_name": "com.example.mouni.inventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100970830578-m6gc0ae2kbqjseggqgpje9ahdavc3e1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjpIXYFDQDi5hWcmnCEmoSNXk225KnutM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
